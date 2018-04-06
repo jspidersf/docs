@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DT Requisition Guide
-permalink: /dt-req-guide/
+permalink: /dt-req-guide.html/
 ---
 
 # CREATING DT REQUISITIONS IN PEOPLESOFT
