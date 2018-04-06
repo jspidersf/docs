@@ -2,6 +2,7 @@
 layout: default
 title: DT Requisition Guide
 permalink: /dtreqguide/
+toc: true
 ---
 
 # CREATING DT REQUISITIONS IN PEOPLESOFT #
