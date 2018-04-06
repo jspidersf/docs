@@ -28,17 +28,15 @@ Before you login to the PeopleSoft system, we suggest you first take a few minut
 
 ### Determining PeopleSoft Budget Codes ###
 There are two main sources for determining the new PeopleSoft budget codes for your requisition:
-*	[ServiceNow Procurement Ticket](#sn-ticket)
-*	[DT FY17-18 Budget Spreadsheet](docs/dtreqguide#spreadsheet)
+*	[ServiceNow Procurement Ticket](#servicenow-procurement-ticket)
+*	[DT FY17-18 Budget Spreadsheet](#dt-fy17-18-budget-spreadsheet)
 
-<a name="sn-ticket"></a>
 #### ServiceNow Procurement Ticket ####
 To locate the PeopleSoft budget codes in a ServiceNow procurement ticket:
 1.	Navigate to the ServiceNow procurement ticket for your requisition.
 2.	Scroll down to **Procurement Information** section. By default, the **Budget Section** tab is displayed.
 3.	Click on the **Funding Information** tab. There you will (hopefully) see the six PeopleSoft (PS) codes needed to define the requisition!
 ![SN funding information](/images/SN-funding.png)
-<a name="spreadsheet"></a>  
 
 #### [DT FY17-18 Budget Spreadsheet] ####
 But what if you are working off an old ServiceNow procurement ticket (created before 6/1/17)? DT Budget staff are in the process of mapping PeopleSoft codes to DT Budget Line Items in the spreadsheet, [FY17-18_DT_Budget-ACTIVE.xls](https://sfgov1.sharepoint.com/sites/TIS/Finance/BudgetFinancial/SitePages/Home.aspx), which is posted on DT Budget’s SharePoint home page:
