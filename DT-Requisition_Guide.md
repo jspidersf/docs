@@ -28,8 +28,8 @@ Before you login to the PeopleSoft system, we suggest you first take a few minut
 
 ### Determining PeopleSoft Budget Codes
 There are two main sources for determining the new PeopleSoft budget codes for your requisition:
-*	[ServiceNow Procurement Ticket](/#sn-ticket)
-*	[DT FY17-18 Budget Spreadsheet](/#spreadsheet)
+*	[ServiceNow Procurement Ticket](/dtreqguide#sn-ticket)
+*	[DT FY17-18 Budget Spreadsheet](docs//dtreqguide/#spreadsheet)
 
 #### [ServiceNow Procurement Ticket](#sn-ticket)
 To locate the PeopleSoft budget codes in a ServiceNow procurement ticket:
