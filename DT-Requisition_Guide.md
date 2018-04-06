@@ -55,7 +55,8 @@ The following sections provide additional information that is not covered by the
 
 ### Entering the Requisition Name ###
 DT has adopted the following naming convention for requisitions to ensure consistency and make the best use of the 30-character limit:
-> **DT** *ServiceNow-ticket-number brief-description*
+**DT** *ServiceNow-ticket-number brief-description* 
+
 The following screenshot shows the requisition name for ServiceNow ticket 0102084, which is for the renewal of LinkedIn corporate recruiting seats. 
  ![SN funding information](/images/PS-RQ-name.png)
  
@@ -66,9 +67,9 @@ To enter bulk budget codes, perform the following steps:
 1.	From the “Requisition” page (Main Menu>eProcurement>Requisition), click **Requisition Settings**.
 2.	In the “Requisition Settings” page, scroll down to the “Accounting Defaults” section.
 3.	Enter the values for the PeopleSoft budget codes in the Account, Fund, Dept, Authority, Project, and Activity Code fields.
-![budget chartfields](/images/PS-RQ-chartfields.png)
-
-![caution](/images/exclamation.png) The PeopleSoft system will allow you to enter invalid budget codes. To avoid this error, pause for a second after entering each code and doublecheck that the PeopleSoft auto-complete function displays the correct code number and description.
+    ![budget chartfields](/images/PS-RQ-chartfields.png)
+    
+    ![caution](/images/exclamation.png) The PeopleSoft system will allow you to enter invalid budget codes. To avoid this error, pause for a second after entering each code and doublecheck that the PeopleSoft auto-complete function displays the correct code number and description.
 4.	Click **OK**. The budget codes will be applied to all line items in the requisition!
 
 ### Adding new Items to PeopleSoft ### 
@@ -78,13 +79,14 @@ If any items in your requisition are not yet in the PeopleSoft database, you can
 ![RQ Special Requests](/images/PS-RQ-special-requests.png)
 
 3.	Enter values for the following fields:
- 1.	Item Description
- 2.	Price
- 3.	Quantity
- 4.	Unit of Measure 
- 5.	Category
- 6.	Supplier ID
+	1.	Item Description
+	2.	Price
+	3.	Quantity
+	4.	Unit of Measure 
+	5.	Category
+	6.	Supplier ID 
 ![caution](/images/exclamation.png) Note that the values for **Category** and **Supplier ID** are limited to values that are configured in the PeopleSoft database. If you don’t have these values, click the magnifying glass to search. The **Supplier Name** value auto-populates when you enter the **Supplier ID**.
+
 ### Confirming the Approval Path ###
 We know that of all the issues with PeopleSoft, the requisition approval process has created the most consternation and gnashing of teeth. We have escalated these issues, and the Controller assures us they are working on it. BUT, until they do, we can still solve many of the common issues we’ve been encountering. Take a deep breath, and let’s proceed.
 Once you have fully entered your requisition, perform the following steps to determine if the approval path is correct.
