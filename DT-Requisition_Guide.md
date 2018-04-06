@@ -1,3 +1,8 @@
+---
+layout: default
+title: DT-Requisition_Guide
+---
+
 # CREATING DT REQUISITIONS IN PEOPLESOFT
 April 4, 2018
 
