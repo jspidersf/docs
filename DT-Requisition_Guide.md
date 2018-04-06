@@ -84,7 +84,7 @@ If any items in your requisition are not yet in the PeopleSoft database, you can
 	3.	Quantity
 	4.	Unit of Measure 
 	5.	Category
-	6.	Supplier ID  
+	6.	Supplier ID   
 
 ![caution](/images/exclamation.png) Note that the values for **Category** and **Supplier ID** are limited to values that are configured in the PeopleSoft database. If you don’t have these values, click the magnifying glass to search. The **Supplier Name** value auto-populates when you enter the **Supplier ID**.
 
@@ -98,8 +98,8 @@ Once you have fully entered your requisition, perform the following steps to det
  
 3.	Click on the **Multiple Approvers** link above “Requisition A1 Approver” and search for your manager’s name in the pop-up window that displays. If you do not find your manager’s name, proceed to [Troubleshooting the Approval Path](#troubleshooting-the-approval-path)..
 4.	Click on the **Multiple Approvers** link above “Requisition A2 Approver” and search for your OCA liaison’s name in the pop-up window that displays. If you do not find your OCA liaison’s name, proceed to Troubleshooting the Approval Path.
-
-![caution](/images/exclamation.png) There will likely be many unfamiliar and strange names listed in both lists of approvals. Some of this is intentional, some of this is unintentional. The Controller’s office is aware of this and working to fix it. But do not fear. These strange names will not adversely affect your requisition.
+    
+    ![caution](/images/exclamation.png) There will likely be many unfamiliar and strange names listed in both lists of approvals. Some of this is intentional, some of this is unintentional. The Controller’s office is aware of this and working to fix it. But do not fear. These strange names will not adversely affect your requisition.
 5.	If both your manager and OCA liaison are listed in the approval path, you have succeeded! Click the **Return** button to return to the “Requisitions” page and click **Submit for Approval**. Take a moment to bask in the well-deserved sense of accomplishment.
 
 ### Troubleshooting Incorrect Approval Paths ###
