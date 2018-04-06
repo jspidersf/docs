@@ -53,6 +53,13 @@ The following sections provide additional information that is not covered by the
 * [Confirming and Troubleshooting the Approval Path](#Confirming-and-Troubleshooting-the-Approval-Path)
 * [Troubleshooting Incorrect Approval Paths](#Troubleshooting-Incorrect-Approval-Paths)
 
+### Entering the Requisition Name ###
+DT has adopted the following naming convention for requisitions to ensure consistency and make the best use of the 30-character limit:
+> **DT** *ServiceNow-ticket-number brief-description*
+The following screenshot shows the requisition name for ServiceNow ticket 0102084, which is for the renewal of LinkedIn corporate recruiting seats. 
+ ![SN funding information](/images/PS-RQ-name.png)
+ 
+We know the 30-character limit for names is arbitrary and annoying. Until this is fixed, we will just need to get creative with our abbreviations.  ¯\_(ツ)_/¯
 ### Entering Bulk Budget Codes ###
 We can now enter the PeopleSoft budget codes once and apply them to all items in the requisition! We no longer need to re-enter them for every. single. item. 
 To enter bulk budget codes, perform the following steps:
@@ -92,12 +99,3 @@ Once you have fully entered your requisition, perform the following steps to det
 
 ### Troubleshooting Incorrect Approval Paths ###
 We have identified the following issues that can cause incorrect approval paths for requisitions. We will update this document as additional issues and solutions are found, so check back early and often.
-
-
-### Entering the Requisition Name ###
-DT has adopted the following naming convention for requisitions to ensure consistency and make the best use of the 30-character limit:
-> **DT** *ServiceNow-ticket-number brief-description*
-The following screenshot shows the requisition name for ServiceNow ticket 0102084, which is for the renewal of LinkedIn corporate recruiting seats. 
- ![SN funding information](/images/PS-RQ-name.png)
- 
-We know the 30-character limit for names is arbitrary and annoying. Until this is fixed, we will just need to get creative with our abbreviations.  ¯\_(ツ)_/¯
