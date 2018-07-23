@@ -16,7 +16,7 @@ This document guides you through the process of staging and releasing vouchers f
 *	This guide
 *	PeopleSoft Budget codes for the contract
 
-![caution](/images/exclamation.png) The PeopleSoft budget codes provide the key information to ensure that your requisition is attached to the correct portion of the budget and routed to the correct approval path. For help determining the new PeopleSoft budget codes, see [this section of the DT Requisition Guide](https://jspidersf.github.io/docs/dtreqguide/#determining-peoplesoft-budget-codes)
+![caution](/images/exclamation.png?classes=float-left)The PeopleSoft budget codes provide the key information to ensure that your requisition is attached to the correct portion of the budget and routed to the correct approval path. For help determining the new PeopleSoft budget codes, see [the DT Requisition Guide](https://jspidersf.github.io/docs/dtreqguide/#determining-peoplesoft-budget-codes).
 
 ## Configuring Line Items for Voucher Payment ##
 
