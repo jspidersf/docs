@@ -39,7 +39,7 @@ To locate the PeopleSoft budget codes in a ServiceNow procurement ticket:
 3.	Click on the **Funding Information** tab. There you will (hopefully) see the six PeopleSoft (PS) codes needed to define the requisition!
 ![SN funding information](/images/SN-funding.png)
 
-#### [DT FY17-18 Budget Spreadsheet] ####
+#### DT FY17-18 Budget Spreadsheet ####
 But what if you are working off an old ServiceNow procurement ticket (created before 6/1/17)? DT Budget staff are in the process of mapping PeopleSoft codes to DT Budget Line Items in the spreadsheet, [FY17-18_DT_Budget-ACTIVE.xls](https://sfgov1.sharepoint.com/sites/TIS/Finance/BudgetFinancial/SitePages/Home.aspx), which is posted on DT Budget’s SharePoint home page:
 ![SN funding information](/images/SP-budget-page.png)
 
